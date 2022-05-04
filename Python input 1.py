@@ -1,3 +1,6 @@
+###Here are some examples to master Python input:
+
+
 PROBLEM_LINK = "https://codeforces.com/contest/1638/problem/A"
 
 INPUT_STATEMENT = """
@@ -22,7 +25,7 @@ input example :
 
 
 
-###Here are some examples to master Python input:
+
 
 #get the number of test cases (integer)
 t = int(input())
